@@ -1,0 +1,11 @@
+Model Information:
+* title:	Assembly_1_pravahan
+* source:	https://sketchfab.com/3d-models/assembly-1-pravahan-2531fa8eb1364c4eb3cbec8fb8eb34f0
+* author:	na21b0461 (https://sketchfab.com/na21b0461)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Assembly_1_pravahan" (https://sketchfab.com/3d-models/assembly-1-pravahan-2531fa8eb1364c4eb3cbec8fb8eb34f0) by na21b0461 (https://sketchfab.com/na21b0461) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
